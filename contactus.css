@@ -16,7 +16,7 @@ body {
 }
 .container{
     width: 100%;
-    height: auto;
+    height: 100%;
     background-image: url(green.jpg);
     background-repeat: repeat;
     padding-left: 8%;
@@ -66,6 +66,7 @@ nav ul li:hover::after{
     width: 100%;
 
 }
+
 .contactUs{
     position: relative;
     width: 100%;
@@ -217,9 +218,7 @@ p{
 }
 
 @media (max-width: 991px){
-    body{
-        background: #03a9f5;
-    }
+   
     .contactUs{
         padding: 20px;
     }
