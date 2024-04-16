@@ -15,9 +15,8 @@ body {
     background-image: url("green.jpg");
 }
 .container{
-    width:100%;
-    min-width:1000px;
-    height:auto;
+    width: 100%;
+    height: auto;
     background-image: url(green.jpg);
     background-repeat: repeat;
     padding-left: 8%;
